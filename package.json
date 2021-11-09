@@ -1,0 +1,11 @@
+{
+  "name": "ratinho-songs",
+  "version": "1.0.0",
+  "description": "Um bot do discord que toca os sons do ratinho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
